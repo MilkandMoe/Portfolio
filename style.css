@@ -1,0 +1,63 @@
+.name {
+    text-align: center;
+    font-size: 153px;
+    color:blue;
+}
+
+p{
+    font-size: 23px;
+}
+
+.pic {
+    margin: 100px 650px 23px 650px;
+    height: 500px;
+    width: 600px;
+    border-radius: 100%;
+    border: 2px solid Black;
+}
+
+li {
+    text-decoration:none;
+    text-align: center;
+    list-style-type:none;
+    
+}
+
+body {
+
+    background-color: hsl(0, 2%, 49%);
+    color: rgb(67, 59, 59);
+    
+}
+
+h1 {
+    text-align: center;
+    font-size: 123px;
+}
+
+.ref {
+    color:brown
+}
+
+.ref2 {
+    color:darkolivegreen
+}
+
+.names {
+    color:crimson
+}
+
+.names2 {
+    color:darkgoldenrod
+}
+
+a {
+    color: #0060B6;
+    text-decoration: none;
+}
+
+a:hover {
+    color:#00A0C6; 
+    text-decoration:none; 
+    cursor:pointer;  
+}

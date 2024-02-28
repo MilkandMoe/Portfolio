@@ -1,0 +1,34 @@
+h1 {
+    text-align: center;
+    font-size: 123px;
+    color: rgb(67, 59, 59);
+}
+
+a {
+    color: #38731f;
+    text-decoration: none;
+}
+
+a:hover {
+    color:#eee414; 
+    text-decoration:none; 
+    cursor:pointer;  
+}
+
+li {
+    text-decoration:none;
+    text-align: center;
+    list-style-type:none;
+    
+}
+
+p {
+    font-size: 28px;    
+}
+
+body {
+
+    background-color: hsl(0, 2%, 49%);
+    color: rgb(243, 233, 233);
+    
+}

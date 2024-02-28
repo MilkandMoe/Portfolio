@@ -1,0 +1,50 @@
+ body {
+    background-image: url("pexels-photo-454507.jpeg");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+.name {
+    text-align: center;
+    font-size: 153px;
+    color:rgb(72, 119, 11);
+}
+
+p{
+    font-size: 23px;
+}
+
+.pic {
+    margin: 100px 650px 23px 650px;
+    height: 500px;
+    width: 600px;
+}
+
+li {
+    text-decoration:none;
+    text-align: center;
+    list-style-type:none;
+    
+}
+
+body {
+    background-color: rgb(16, 10, 10);
+    color: rgb(248, 232, 4);
+    
+}
+
+h1 {
+    text-align: center;
+    font-size: 123px;
+}
+
+a {
+    color: #38731f;
+    text-decoration: none;
+}
+
+a:hover {
+    color:#eee414; 
+    text-decoration:none; 
+    cursor:pointer;  
+}
